@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There 👋, And Welcome To My Page! 🤗</h1>
 <h3 align="center">I'm Aliza Grabowski!</h3>
-<h3 align="center">After Graduating With My Bachelor's in Computer Engineering, I'm ready to kick the ground running 🏃‍♀️</h3>
+<h3 align="center">After Graduating With My Bachelor's in Computer Engineering, I'm ready to hit the ground running 🏃‍♀️</h3>
 <h4>I am a driven and resourceful administrative professional with 7+ years of experience assisting with work of 
 high-achieving executives. Track record supporting professional needs with well-organized precision. 
 Successfully manages high-volume workloads in rapidly changing environments.</h4></b>
