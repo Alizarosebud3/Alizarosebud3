@@ -1,19 +1,21 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alizarosebud3&label=Profile%20views&color=0e75b6&style=flat" alt="alizarosebud3" /> </p>
+
 <h1 align="center">Hi There 👋, And Welcome To My Page! 🤗</h1>
 <h3 align="center">I'm Aliza Grabowski!</h3>
-<h3>After Graduating With My Bachelor's in Computer Engineering, I'm ready to kick the ground running 🏃‍♀️</h3>
-<h3>I am a driven and resourceful administrative professional with 7+ years of experience assisting with work of 
+<h3 align="center">After Graduating With My Bachelor's in Computer Engineering, I'm ready to kick the ground running 🏃‍♀️</h3>
+<h4>I am a driven and resourceful administrative professional with 7+ years of experience assisting with work of 
 high-achieving executives. Track record supporting professional needs with well-organized precision. 
-Successfully manages high-volume workloads in rapidly changing environments.</h3></b>
-<h3>Knowledgeable Programmer skilled in data collection, analysis, and management. Works well under 
-pressure and consistently meets deadlines and targets while delivering high-quality work.</h3></b>
-<h3>Hardworking and passionate job seeker with strong organizational and multi-tasking skills, eager to 
-secure entry-level programming position. Ready to help team achieve company goals.</h3>
+Successfully manages high-volume workloads in rapidly changing environments.</h4></b>
+<h4>Knowledgeable Programmer skilled in data collection, analysis, and management. Works well under 
+pressure and consistently meets deadlines and targets while delivering high-quality work.</h4></b>
+<h4>Hardworking and passionate job seeker with strong organizational and multi-tasking skills, eager to 
+secure entry-level programming position. Ready to help team achieve company goals.</h4>
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alizarosebud3&label=Profile%20views&color=0e75b6&style=flat" alt="alizarosebud3" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Learn More About Me On Through My LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aliza-grabowski-116310102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliza-grabowski-116310102" height="30" width="40" /></a>
 </p>
