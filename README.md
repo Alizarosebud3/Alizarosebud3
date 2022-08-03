@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizarosebud3&label=Profile%20views&color=0e75b6&style=flat" alt="alizarosebud3" /> </p>
 
-<h1 align="center">Hi There 👋, And Welcome To My Page! 🤗</h1>
+<h1 align="center">Hi There <img src="https://github.com/Alizarosebud3/Alizarosebud3/blob/main/wave.gif" width="30px" height="30px" />, And Welcome To My Page! 🤗</h1>
 <h3 align="center">I'm Aliza Grabowski!</h3>
 <h3 align="center">After Graduating With My Bachelor's in Computer Engineering, I'm ready to hit the ground running 🏃‍♀️</h3>
 <hr>
